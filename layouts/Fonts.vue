@@ -1,4 +1,10 @@
 <!-- eslint-disable vue/multi-word-component-names -->
+<template>
+	
+</template>
+<script setup>
+	
+</script>
 <style>
 	@font-face {
 		font-family: "roboto";
